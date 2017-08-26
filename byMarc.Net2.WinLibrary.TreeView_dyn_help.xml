@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="byMarc.Net2.WinLibrary.TreeView" Title="byMarc.Net2.WinLibrary.TreeView Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView.TreeViewLib.FindNodeByTag" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_0000000000000003_overloads--.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">FindNodeByTag Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView.TreeViewLib.FindNodeByTag" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_0000000000000004_overloads--.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">FindNodeByTag Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView.TreeViewLib.TreeNodeInvokeAddNode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_000000000000000B.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">TreeNodeInvokeAddNode Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView.TreeViewLib.TreeNodeInvokeEnsureVisible" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_000000000000000A.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">TreeNodeInvokeEnsureVisible Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView.TreeViewLib.TreeNodeInvokeGetBackColor" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_000000000000000C.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">TreeNodeInvokeGetBackColor Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView.TreeViewLib.TreeNodeInvokeSetBackColor" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_000000000000000D.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">TreeNodeInvokeSetBackColor Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView.TreeViewLib.TreeViewInvokeAddNode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_0000000000000007.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">TreeViewInvokeAddNode Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView.TreeViewLib.TreeViewInvokeFocus" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_0000000000000009.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">TreeViewInvokeFocus Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView.TreeViewLib.TreeViewInvokeGetSelectedNode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_0000000000000005.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">TreeViewInvokeGetSelectedNode Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView.TreeViewLib.TreeViewInvokeRefresh" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_0000000000000008.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">TreeViewInvokeRefresh Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView.TreeViewLib.TreeViewInvokeSetSelectedNode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_0000000000000006.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">TreeViewInvokeSetSelectedNode Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView.TreeViewLib" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_0000000000000002.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">TreeViewLib Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_000000000000000F.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">byMarc.Net2.WinLibrary.TreeView Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinLibrary.TreeView Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinLibrary.TreeView.chm::/topic_000000000000000E.html" LinkGroup="byMarc.Net2.WinLibrary.TreeView">byMarc.Net2.WinLibrary.TreeView Reference</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
